@@ -20,4 +20,10 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 
 ## Resources
 
-https://www.irs.gov/Links to an external site.
+Class activities and staff instruction
+
+https://www.irs.gov/
+
+https://stackoverflow.com/questions/65119003/binning-pandas-value-counts
+
+Content for this Challenge and README provided by EdX and intended for educational purposes only. 
