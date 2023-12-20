@@ -26,4 +26,6 @@ https://www.irs.gov/
 
 https://stackoverflow.com/questions/65119003/binning-pandas-value-counts
 
+https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html#pandas.get_dummies
+
 Content for this Challenge and README provided by EdX and intended for educational purposes only. 
