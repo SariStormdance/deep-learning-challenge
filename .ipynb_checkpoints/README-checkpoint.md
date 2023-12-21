@@ -28,4 +28,6 @@ https://stackoverflow.com/questions/65119003/binning-pandas-value-counts
 
 https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html#pandas.get_dummies
 
+https://stackoverflow.com/questions/43402320/export-tensorflow-weights-to-hdf5-file-and-model-to-keras-model-json
+
 Content for this Challenge and README provided by EdX and intended for educational purposes only. 
